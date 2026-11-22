@@ -1,0 +1,13 @@
+NEGOCIOS - TEMA 8: EMPRENDIMIENTO Y PLAN DE NEGOCIOS
+
+Emprender es identificar una oportunidad, reunir recursos y crear una iniciativa que genere valor, ya sea una empresa nueva o un proyecto dentro de una organización existente. El emprendedor se caracteriza por su disposición a asumir riesgos calculados, su creatividad, su perseverancia y su capacidad para aprender del fracaso.
+
+Todo proyecto nace de una idea, pero una idea no es lo mismo que una oportunidad. Una oportunidad real responde a un problema o necesidad concreta de un grupo de clientes dispuestos a pagar por la solución. Por eso se recomienda validar la idea antes de invertir mucho: conversar con clientes potenciales, construir un producto mínimo viable y medir la reacción del mercado. Esta lógica, popularizada por la metodología Lean Startup, se resume en el ciclo construir, medir y aprender.
+
+Una herramienta muy usada para estructurar el modelo de negocio es el Business Model Canvas, que organiza nueve bloques: segmentos de clientes, propuesta de valor, canales, relaciones con clientes, fuentes de ingresos, recursos clave, actividades clave, socios clave y estructura de costos.
+
+El plan de negocios es el documento que detalla cómo operará y se financiará el proyecto. Sus secciones típicas son: resumen ejecutivo, descripción de la empresa, análisis del mercado y la competencia, plan de marketing, plan operativo, estructura organizacional, plan financiero (inversión inicial, proyecciones de ventas, costos, flujo de efectivo y punto de equilibrio) y análisis de riesgos. Un plan sólido sirve para guiar al equipo y para convencer a inversionistas o bancos.
+
+También es importante conocer las formas legales de constituir una empresa, los trámites fiscales y las fuentes de financiamiento: ahorros propios, créditos, capital semilla, aceleradoras, inversionistas ángel y fondos de capital de riesgo.
+
+Esta materia integra conocimientos de todas las áreas y entrena al estudiante para convertir ideas en proyectos viables.

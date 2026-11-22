@@ -1,0 +1,13 @@
+INGENIERÍA INDUSTRIAL - TEMA 6: INVESTIGACIÓN DE OPERACIONES
+
+La investigación de operaciones (IO) aplica modelos matemáticos y métodos analíticos para ayudar a tomar las mejores decisiones en sistemas complejos. Surgió durante la Segunda Guerra Mundial para optimizar el uso de recursos militares y hoy se emplea en producción, logística, finanzas, salud y servicios.
+
+El proceso típico consiste en definir el problema, construir un modelo, resolverlo, validar los resultados e implementar la solución. Un modelo representa la realidad mediante variables de decisión (lo que se puede controlar), una función objetivo (lo que se desea maximizar o minimizar) y restricciones (límites de recursos o condiciones).
+
+La programación lineal es la técnica más difundida. Se aplica cuando el objetivo y las restricciones son lineales; por ejemplo, decidir cuántas unidades de cada producto fabricar para maximizar la utilidad con un número limitado de horas y materiales. Se resuelve gráficamente en problemas de dos variables o con el método simplex en casos mayores, y hoy mediante software como Excel Solver, LINDO o Python. El análisis de sensibilidad indica cómo cambia la solución si varían los datos.
+
+Derivados de ella aparecen el problema de transporte, que minimiza el costo de enviar mercancía de varios orígenes a varios destinos, y el problema de asignación, que empata tareas con recursos al menor costo. La programación entera exige que ciertas variables sean números enteros, como el número de camiones o de máquinas.
+
+Otras herramientas son los modelos de redes (ruta más corta, flujo máximo, ruta crítica en proyectos con PERT/CPM), la teoría de colas, que analiza filas de espera en bancos o centros de llamadas, la teoría de decisiones, la programación dinámica y la simulación, que reproduce un sistema en computadora para probar escenarios sin riesgo.
+
+La IO ofrece un enfoque riguroso para pasar de la intuición a decisiones sustentadas en datos, y es esencial para optimizar recursos.

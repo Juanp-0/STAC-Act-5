@@ -1,0 +1,11 @@
+INGENIERÍA EN SOFTWARE - TEMA 9: PRUEBAS Y CALIDAD DE SOFTWARE
+
+Las pruebas de software son actividades que evalúan si un sistema cumple con los requerimientos y detectan defectos antes de que lleguen a los usuarios. Probar no puede demostrar que un programa no tiene errores, solo mostrar su presencia; por eso se busca reducir el riesgo de manera inteligente. La calidad de software, en un sentido más amplio, abarca la funcionalidad, la fiabilidad, la usabilidad, el rendimiento, la seguridad y la mantenibilidad.
+
+Se distinguen varios niveles de prueba. Las pruebas unitarias verifican componentes pequeños y aislados, como una función o clase, y se automatizan con marcos como JUnit, pytest o Jest. Las pruebas de integración comprueban que los módulos funcionen bien juntos. Las pruebas de sistema evalúan el producto completo, y las pruebas de aceptación validan con el cliente que satisface sus necesidades. Esta estructura suele representarse como una pirámide: muchas pruebas unitarias en la base, menos de integración y pocas de extremo a extremo en la cima.
+
+Según el enfoque, las pruebas de caja negra analizan entradas y salidas sin ver el código, usando técnicas como partición de equivalencia y análisis de valores límite; las de caja blanca examinan la estructura interna y miden la cobertura del código. También existen pruebas no funcionales: de rendimiento, carga y estrés, seguridad, usabilidad y compatibilidad. Las pruebas de regresión confirman que los cambios nuevos no rompan lo que ya funcionaba.
+
+El desarrollo guiado por pruebas (TDD) propone escribir primero la prueba, luego el código que la hace pasar y finalmente refactorizar. Las revisiones de código y el análisis estático complementan la detección temprana de problemas.
+
+Para gestionar defectos se registran en sistemas de seguimiento con su severidad, pasos para reproducirlos y estado. Métricas como la densidad de defectos o la cobertura ayudan a evaluar la calidad. Estándares como ISO/IEC 25010 y modelos como CMMI guían la mejora de procesos. Una cultura de calidad involucra a todo el equipo, no solo al área de pruebas.

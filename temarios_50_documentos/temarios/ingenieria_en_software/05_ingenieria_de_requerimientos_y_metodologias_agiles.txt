@@ -1,0 +1,11 @@
+INGENIERÍA EN SOFTWARE - TEMA 5: INGENIERÍA DE REQUERIMIENTOS Y METODOLOGÍAS ÁGILES
+
+La ingeniería de software es la aplicación de un enfoque sistemático, disciplinado y cuantificable al desarrollo, operación y mantenimiento de software. Un proyecto exitoso no depende solo de programar bien, sino de construir lo que el usuario realmente necesita, a tiempo y dentro del presupuesto.
+
+Todo comienza con los requerimientos, que describen lo que el sistema debe hacer y bajo qué condiciones. Los requerimientos funcionales especifican servicios o comportamientos (por ejemplo, el usuario puede restablecer su contraseña). Los no funcionales establecen cualidades como rendimiento, seguridad, usabilidad o disponibilidad. La ingeniería de requerimientos incluye la obtención (entrevistas, encuestas, observación, talleres), el análisis, la especificación, la validación y la gestión de cambios. Herramientas habituales son las historias de usuario, los casos de uso y los prototipos.
+
+El ciclo de vida del software abarca análisis, diseño, implementación, pruebas, despliegue y mantenimiento. El modelo en cascada ejecuta estas fases de forma secuencial y funciona cuando los requisitos son estables, pero es rígido ante los cambios. Los modelos iterativos e incrementales entregan versiones parciales y mejoran con la retroalimentación.
+
+Las metodologías ágiles, basadas en el Manifiesto Ágil de 2001, priorizan a las personas y su colaboración, el software funcionando, la colaboración con el cliente y la respuesta al cambio. Scrum es la más conocida: el trabajo se organiza en sprints de una a cuatro semanas, con roles definidos (Product Owner, Scrum Master y equipo de desarrollo), un backlog de tareas priorizadas y ceremonias como la planeación del sprint, la reunión diaria, la revisión y la retrospectiva. Kanban visualiza el flujo de trabajo en un tablero y limita el trabajo en curso. Extreme Programming promueve prácticas técnicas como la programación en parejas y la integración continua.
+
+Elegir la metodología adecuada depende del tipo de proyecto, el equipo y el nivel de incertidumbre.

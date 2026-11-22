@@ -1,0 +1,11 @@
+MEDICINA - TEMA 4: HISTOLOGÍA Y EMBRIOLOGÍA
+
+La histología es el estudio microscópico de los tejidos, y la embriología analiza el desarrollo del ser humano desde la fecundación hasta el nacimiento. Juntas explican cómo se forman y organizan las estructuras del cuerpo.
+
+Los tejidos se agrupan en cuatro tipos básicos. El tejido epitelial reviste superficies y cavidades y forma glándulas; se clasifica según el número de capas (simple o estratificado) y la forma de sus células (plano, cúbico o cilíndrico). El tejido conectivo da soporte, une y protege; incluye el conectivo propiamente dicho, el cartílago, el hueso y la sangre, y se caracteriza por tener una abundante matriz extracelular. El tejido muscular, que puede ser esquelético, cardiaco o liso, se especializa en la contracción. El tejido nervioso, con neuronas y células de la glía, conduce señales.
+
+Estos tejidos se combinan para formar órganos. Por ejemplo, la pared del intestino tiene capas características: mucosa, submucosa, muscular y serosa. El estudio histológico se realiza con cortes finos de tejido teñidos, siendo la hematoxilina-eosina la tinción más común, y observados con microscopio óptico o electrónico. Esta habilidad es la base de la patología.
+
+La embriología comienza con la fecundación, cuando el espermatozoide y el óvulo forman el cigoto. Siguen la segmentación, la formación del blastocisto y la implantación en el útero durante la primera semana. En la segunda semana se forma el disco embrionario bilaminar. En la tercera ocurre la gastrulación, que origina las tres capas germinativas: ectodermo (sistema nervioso y epidermis), mesodermo (músculo, hueso, corazón y riñón) y endodermo (revestimiento del tubo digestivo y respiratorio, hígado y páncreas). De la cuarta a la octava semana, el periodo embrionario, se forman los órganos; esta etapa es la más sensible a sustancias teratogénicas como ciertos medicamentos, el alcohol o infecciones. Después, el periodo fetal se centra en el crecimiento y la maduración.
+
+Esta materia ayuda a entender los defectos congénitos, como el cierre incompleto del tubo neural, y la organización normal de los tejidos.

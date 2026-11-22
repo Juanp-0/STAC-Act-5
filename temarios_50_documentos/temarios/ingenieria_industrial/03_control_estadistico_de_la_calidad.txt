@@ -1,0 +1,13 @@
+INGENIERÍA INDUSTRIAL - TEMA 3: CONTROL ESTADÍSTICO DE LA CALIDAD
+
+La calidad es el grado en que un producto o servicio cumple con los requisitos y las expectativas del cliente. El control estadístico de la calidad aplica herramientas estadísticas para monitorear, controlar y mejorar los procesos, con el fin de producir con menos defectos y menor variabilidad.
+
+La idea central es que todo proceso tiene variación. Existen causas comunes, inherentes al proceso y siempre presentes, y causas especiales, que son eventos particulares como una máquina descalibrada o un material defectuoso. Controlar la calidad significa distinguir ambas y actuar sobre las especiales sin sobrerreaccionar ante la variación normal.
+
+La herramienta principal es la gráfica de control, desarrollada por Walter Shewhart. Registra una característica del proceso a lo largo del tiempo junto con un límite superior y uno inferior de control. Para variables medibles se usan gráficas X-R o X-S; para atributos, como el número de piezas defectuosas, se emplean las gráficas p, np, c y u. Si un punto cae fuera de los límites o aparecen patrones inusuales, se sospecha una causa especial.
+
+Las siete herramientas básicas de la calidad ayudan a analizar problemas: hoja de verificación, diagrama de Pareto, diagrama de causa y efecto (Ishikawa), histograma, diagrama de dispersión, estratificación y gráficas de control. El diagrama de Pareto, por ejemplo, muestra que unas pocas causas generan la mayoría de los problemas.
+
+También se estudia la capacidad del proceso, medida con índices como Cp y Cpk, que comparan la variación del proceso con las especificaciones del cliente. Además, el muestreo de aceptación permite decidir si se acepta o rechaza un lote tras inspeccionar una muestra.
+
+Estas técnicas son la base de enfoques más amplios como la gestión de la calidad total, Six Sigma y la norma ISO 9001, que promueven la mejora continua mediante el ciclo planear, hacer, verificar y actuar. Su objetivo final es prevenir defectos en lugar de solo detectarlos.

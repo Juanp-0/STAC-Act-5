@@ -1,0 +1,11 @@
+NEGOCIOS - TEMA 1: INTRODUCCIÓN A LA ADMINISTRACIÓN
+
+La administración es el proceso de planear, organizar, dirigir y controlar los recursos de una organización para alcanzar objetivos de manera eficiente y eficaz. Eficiencia significa usar bien los recursos (tiempo, dinero, personas); eficacia significa lograr los resultados esperados. Un buen administrador busca ambas cosas a la vez.
+
+Las cuatro funciones clásicas, propuestas en gran medida por Henri Fayol a inicios del siglo XX, siguen vigentes. La planeación define a dónde se quiere llegar y cómo: se establecen la misión, la visión, los objetivos y las estrategias. La organización distribuye tareas, autoridad y recursos mediante estructuras como los organigramas. La dirección implica liderar, motivar y comunicar para que las personas trabajen hacia las metas. El control compara los resultados reales con los planeados y corrige las desviaciones.
+
+A lo largo de la historia han surgido distintas escuelas. La administración científica de Frederick Taylor se enfocó en optimizar tareas y tiempos. La escuela clásica de Fayol se centró en la estructura general de la empresa. La escuela de relaciones humanas, con los estudios de Elton Mayo, descubrió que la motivación y el ambiente social influyen en la productividad. Más tarde aparecieron el enfoque de sistemas, que ve la empresa como un conjunto de partes interrelacionadas, y el enfoque de contingencia, que sostiene que no existe una única forma correcta de administrar, pues todo depende de la situación.
+
+En una organización existen niveles jerárquicos: alta dirección (decisiones estratégicas), mandos medios (decisiones tácticas) y nivel operativo (ejecución diaria). Cada nivel requiere habilidades distintas: técnicas, humanas y conceptuales. Los directivos de mayor nivel necesitan más visión conceptual, mientras que los supervisores requieren mayor dominio técnico.
+
+Además, toda empresa opera en un entorno con factores internos y externos: competencia, clientes, proveedores, regulaciones, tecnología y economía. Entender este contexto permite tomar mejores decisiones. Este tema sienta las bases para todas las materias posteriores de la carrera, pues cada área funcional (finanzas, mercadotecnia, recursos humanos, operaciones) aplica estos mismos principios administrativos.

@@ -1,0 +1,11 @@
+INGENIERÍA EN SOFTWARE - TEMA 7: REDES DE COMPUTADORAS
+
+Una red de computadoras es un conjunto de dispositivos interconectados que comparten recursos e información. Según su alcance se clasifican en redes de área personal (PAN), local (LAN), metropolitana (MAN) y amplia (WAN); la mayor de todas es Internet, una red de redes.
+
+Para organizar la comunicación se usan modelos de capas. El modelo OSI define siete capas: física, enlace de datos, red, transporte, sesión, presentación y aplicación. En la práctica se emplea el modelo TCP/IP, con cuatro capas: acceso a la red, internet, transporte y aplicación. Cada capa ofrece servicios a la superior y oculta su complejidad. Los datos se dividen en paquetes que viajan de un origen a un destino y se reensamblan.
+
+En la capa de red, el protocolo IP asigna direcciones únicas a los dispositivos. IPv4 usa direcciones de 32 bits, que se agotaron, por lo que IPv6, con 128 bits, ha ido ganando terreno. La división en subredes y las máscaras permiten organizar y optimizar el uso de direcciones. Los routers conectan redes diferentes y deciden la mejor ruta mediante protocolos de enrutamiento, mientras que los switches conectan dispositivos dentro de una red local.
+
+En la capa de transporte, TCP ofrece comunicación confiable, ordenada y con control de congestión, mientras que UDP es más rápido pero no garantiza la entrega, y se usa en videollamadas o juegos. En la capa de aplicación destacan HTTP y HTTPS para la web, DNS que traduce nombres de dominio a direcciones IP, DHCP que asigna direcciones automáticamente, SMTP para el correo electrónico y SSH para acceso remoto seguro.
+
+También se abordan las redes inalámbricas (Wi-Fi), los modelos cliente-servidor y punto a punto, las APIs, los firewalls y la seguridad básica. Para un ingeniero de software, entender las redes es indispensable para desarrollar aplicaciones web, servicios en la nube y sistemas distribuidos.

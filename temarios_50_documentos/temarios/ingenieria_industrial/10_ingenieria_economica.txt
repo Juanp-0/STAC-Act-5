@@ -1,0 +1,11 @@
+INGENIERÍA INDUSTRIAL - TEMA 10: INGENIERÍA ECONÓMICA
+
+La ingeniería económica aplica principios de economía y matemáticas financieras para evaluar la conveniencia de proyectos, equipos e inversiones. Permite comparar alternativas técnicas considerando no solo su factibilidad, sino también su rentabilidad a lo largo del tiempo.
+
+Su base es el valor del dinero en el tiempo: una cantidad hoy vale más que la misma cantidad en el futuro, porque puede invertirse y generar interés. El interés simple se calcula sobre el capital inicial, mientras que el interés compuesto se calcula sobre el capital más los intereses acumulados. Con las fórmulas de equivalencia se pasa de valores presentes (P) a futuros (F) y a series uniformes o anualidades (A), usando una tasa de interés y un número de periodos. Los diagramas de flujo de efectivo ayudan a representar ingresos y egresos en una línea de tiempo.
+
+Para comparar alternativas se emplean varios criterios. El valor presente neto (VPN) convierte todos los flujos al momento actual con la tasa mínima atractiva de retorno (TREMA); un proyecto es aceptable si el VPN es positivo. El valor anual equivalente (VAE) expresa los flujos como pagos anuales uniformes. La tasa interna de retorno (TIR) es la tasa que hace el VPN igual a cero. La relación beneficio-costo divide los beneficios entre los costos, ambos a valor presente. Cuando las alternativas tienen vidas distintas, se comparan con un horizonte común o con el VAE.
+
+Otros temas importantes son la depreciación, que distribuye el costo de un activo durante su vida útil (línea recta, saldo decreciente); el análisis de reemplazo de equipos; el efecto de los impuestos y de la inflación; el análisis del punto de equilibrio, que determina el volumen en que los ingresos igualan a los costos; y el análisis de sensibilidad y de riesgo, que evalúa qué sucede si cambian los supuestos.
+
+Con estas herramientas, el ingeniero industrial justifica con datos decisiones como comprar maquinaria, automatizar un proceso o ampliar una planta.

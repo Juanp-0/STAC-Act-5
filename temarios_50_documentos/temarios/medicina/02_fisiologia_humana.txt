@@ -1,0 +1,11 @@
+MEDICINA - TEMA 2: FISIOLOGÍA HUMANA
+
+La fisiología estudia cómo funcionan los organismos vivos y sus componentes, desde las células hasta los sistemas completos. Mientras la anatomía describe la estructura, la fisiología explica cómo esa estructura cumple su función y cómo se regula.
+
+El concepto central es la homeostasis: la capacidad del organismo de mantener un medio interno relativamente estable (temperatura, pH, glucosa, presión arterial, concentración de iones) a pesar de los cambios externos. Se logra mediante mecanismos de retroalimentación. La retroalimentación negativa, la más común, revierte un cambio; por ejemplo, si sube la glucosa, el páncreas libera insulina que la reduce. La positiva refuerza un cambio hasta que ocurre un evento, como las contracciones del parto.
+
+A nivel celular se estudian el transporte a través de la membrana (difusión, ósmosis, transporte activo), el potencial de membrana y la comunicación celular. Las neuronas transmiten señales mediante potenciales de acción y neurotransmisores en las sinapsis. El músculo se contrae por el deslizamiento de filamentos de actina y miosina, desencadenado por calcio.
+
+En el sistema cardiovascular, el corazón actúa como bomba y genera el gasto cardiaco, que depende de la frecuencia y del volumen de eyección; la presión arterial resulta del gasto cardiaco y la resistencia vascular. En el respiratorio se analizan la ventilación y el intercambio de oxígeno y dióxido de carbono entre alvéolos y sangre. El riñón filtra la sangre, regula los líquidos, los electrolitos y el equilibrio ácido-base. El sistema digestivo se encarga de digerir y absorber nutrientes, y el endocrino coordina funciones a largo plazo mediante hormonas como la tiroidea, el cortisol y la insulina.
+
+Los sistemas no funcionan de manera aislada, sino integrada: durante el ejercicio, aumentan la frecuencia cardiaca y respiratoria, se redistribuye el flujo sanguíneo y se liberan hormonas. Comprender la fisiología normal permite entender la fisiopatología, es decir, cómo y por qué se altera la función en la enfermedad.

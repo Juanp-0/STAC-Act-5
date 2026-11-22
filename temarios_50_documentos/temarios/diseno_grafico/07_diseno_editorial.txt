@@ -1,0 +1,13 @@
+DISEÑO GRÁFICO - TEMA 7: DISEÑO EDITORIAL
+
+El diseño editorial se ocupa de la concepción, organización y presentación de publicaciones como libros, revistas, periódicos, catálogos, informes y publicaciones digitales. Su propósito es que el contenido sea claro, atractivo y fácil de leer, respetando la identidad del medio y las necesidades del lector.
+
+Todo proyecto comienza con la definición del concepto editorial: tema, público, tono, formato y extensión. Se decide el formato (dimensiones del papel), el número de páginas, el tipo de encuadernación (rústica, cosida, grapada, tapa dura) y el soporte (impreso, PDF interactivo, ePub o aplicación). Los libros y revistas se trabajan en pliegos, por lo que el número de páginas suele ser múltiplo de cuatro u ocho.
+
+La estructura visual se sustenta en la retícula, que determina márgenes, columnas y zonas de texto e imagen. La mancha tipográfica es el área que ocupa el texto en la página. Se define un sistema tipográfico con estilos para títulos, subtítulos, cuerpo de texto, pies de foto, citas destacadas y folios. Cuidar las viudas y huérfanas (líneas sueltas al final o al inicio de página), los ríos de blancos y los cortes de palabra mejora la calidad del texto.
+
+El diseño de una revista o periódico se apoya en la jerarquía: portada, índice, apertura de artículos, secciones, uso de imágenes y recursos como las capitulares o los destacados. Las portadas y contraportadas buscan seducir y comunicar. En los libros se diseñan las páginas preliminares (portada, portadilla, créditos, índice), el cuerpo y las páginas finales. La imagen y el texto deben dialogar: la fotografía y la ilustración se encuadran, se recortan y se rotulan con criterio.
+
+Se utiliza principalmente InDesign, con páginas maestras, estilos de párrafo y carácter, y numeración automática. Se aprenden el manejo de resolución y perfiles de color, así como la exportación a PDF para imprenta, con sangrías y marcas de corte. En lo digital se consideran la adaptación a pantallas, la interactividad y la accesibilidad.
+
+Un buen diseño editorial es el que ayuda al lector a olvidar el diseño y sumergirse en el contenido.

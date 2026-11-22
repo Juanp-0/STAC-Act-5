@@ -1,0 +1,13 @@
+INGENIERÍA INDUSTRIAL - TEMA 5: LOGÍSTICA Y CADENA DE SUMINISTRO
+
+La cadena de suministro es la red de organizaciones, personas, actividades e información que participan en llevar un producto desde las materias primas hasta el cliente final. Incluye proveedores, fabricantes, almacenes, transportistas, distribuidores y minoristas. La logística es la parte que planea y controla el flujo y almacenamiento eficiente de bienes, servicios e información.
+
+Las actividades logísticas clave son el abastecimiento y compras, el transporte, el almacenamiento, el manejo de inventarios, el procesamiento de pedidos, el empaque y la logística inversa (devoluciones y reciclaje). El objetivo es entregar el producto correcto, en el lugar y momento correctos, en buenas condiciones y al costo adecuado.
+
+En el transporte existen cinco modos principales: carretero, ferroviario, marítimo, aéreo y por ducto, cada uno con diferencias en costo, velocidad, capacidad y flexibilidad. A menudo se combinan en el transporte multimodal o intermodal mediante contenedores. Las decisiones incluyen la selección de rutas, el tamaño de flota y la consolidación de cargas.
+
+En los almacenes se diseñan la ubicación de productos, los métodos de recolección (picking), el uso de estantería y la tecnología, como códigos de barras, RFID y sistemas de administración de almacenes (WMS). También se decide la localización de centros de distribución, balanceando costos de transporte y niveles de servicio.
+
+Un fenómeno importante es el efecto látigo: pequeñas variaciones en la demanda del cliente se amplifican al subir por la cadena, provocando excesos o faltantes de inventario. Se combate con mejor comunicación, intercambio de información y colaboración entre los eslabones.
+
+Los indicadores de desempeño incluyen el nivel de servicio, la rotación de inventarios, el tiempo de ciclo del pedido, el costo logístico como porcentaje de ventas y la entrega a tiempo y completa. La gestión moderna incorpora digitalización, rastreo en tiempo real, analítica de datos y criterios de sostenibilidad, como la reducción de emisiones. Una cadena bien administrada es una ventaja competitiva clave.

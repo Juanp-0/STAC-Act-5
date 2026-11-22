@@ -1,0 +1,13 @@
+INGENIERÍA EN SOFTWARE - TEMA 6: SISTEMAS OPERATIVOS
+
+El sistema operativo (SO) es el software que administra los recursos de hardware de una computadora y ofrece servicios a los programas de aplicación. Actúa como intermediario entre el usuario, las aplicaciones y los componentes físicos. Ejemplos conocidos son Windows, Linux, macOS, Android e iOS.
+
+Sus funciones principales son: gestión de procesos, gestión de memoria, administración de archivos, manejo de dispositivos de entrada y salida, y seguridad y protección. El núcleo o kernel es la parte central que realiza estas tareas con privilegios especiales.
+
+Un proceso es un programa en ejecución. Un proceso puede tener varios hilos, que son unidades de ejecución más ligeras que comparten recursos. Como normalmente hay más procesos que procesadores, el planificador decide cuál se ejecuta en cada momento, usando algoritmos como Round Robin, prioridades o el trabajo más corto primero. Cuando varios procesos acceden a recursos compartidos aparecen problemas de concurrencia, como las condiciones de carrera y los interbloqueos (deadlocks), que se controlan con semáforos, mutex y monitores.
+
+La gestión de memoria asigna espacio a cada proceso y evita que invadan el de otros. Técnicas como la paginación y la segmentación dividen la memoria en bloques, y la memoria virtual permite ejecutar programas mayores que la memoria física, al apoyarse en el disco. Los algoritmos de reemplazo de páginas deciden qué datos desalojar.
+
+El sistema de archivos organiza la información en archivos y directorios, define permisos de acceso y administra el espacio en disco con estructuras como NTFS, ext4 o APFS. El subsistema de entrada y salida controla dispositivos mediante controladores o drivers.
+
+También se estudian la virtualización y los contenedores, que permiten ejecutar varios entornos aislados sobre el mismo hardware, y el uso de la línea de comandos, esencial para automatizar tareas y administrar servidores. Entender cómo funciona el SO ayuda a escribir programas más eficientes y a diagnosticar problemas de rendimiento.

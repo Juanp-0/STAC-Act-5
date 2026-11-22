@@ -1,0 +1,13 @@
+MEDICINA - TEMA 3: BIOQUÍMICA Y BIOLOGÍA MOLECULAR
+
+La bioquímica estudia las moléculas y las reacciones químicas que sustentan la vida. Para el médico, explica cómo se obtiene energía, cómo se construyen los tejidos y qué falla en muchas enfermedades.
+
+Las biomoléculas principales son cuatro. Los carbohidratos, como la glucosa, son la fuente inmediata de energía. Los lípidos forman las membranas celulares, almacenan energía y actúan como hormonas (por ejemplo, el colesterol es precursor de las hormonas esteroideas). Las proteínas cumplen funciones estructurales, de transporte, de defensa y catalíticas; están formadas por aminoácidos unidos en cadenas que se pliegan en estructuras tridimensionales. Los ácidos nucleicos, ADN y ARN, almacenan y transmiten la información genética.
+
+Las enzimas son proteínas que aceleran las reacciones químicas. Su actividad depende de factores como la temperatura, el pH y la concentración de sustrato, y puede ser modulada por inhibidores. Muchos fármacos actúan inhibiendo enzimas específicas.
+
+El metabolismo es el conjunto de reacciones del organismo. El catabolismo degrada moléculas para obtener energía, y el anabolismo sintetiza moléculas complejas. La glucólisis convierte la glucosa en piruvato; el ciclo de Krebs y la cadena de transporte de electrones en la mitocondria producen la mayor parte del ATP, la moneda energética de la célula. Otras rutas importantes son la gluconeogénesis, la síntesis y oxidación de ácidos grasos, el ciclo de la urea y la formación de cuerpos cetónicos. Hormonas como la insulina y el glucagón coordinan estas rutas según el estado de ayuno o de alimentación.
+
+La biología molecular explica el flujo de la información genética: la replicación copia el ADN, la transcripción produce ARN mensajero y la traducción sintetiza proteínas en los ribosomas. Las mutaciones pueden alterar este proceso y causar enfermedades genéticas. Técnicas como la PCR y la secuenciación se usan hoy en el diagnóstico.
+
+Muchas patologías, como la diabetes, los errores congénitos del metabolismo o la anemia falciforme, se comprenden desde esta perspectiva molecular.

@@ -1,0 +1,13 @@
+DISEÑO GRÁFICO - TEMA 3: TIPOGRAFÍA
+
+La tipografía es el arte y la técnica de diseñar y organizar las letras para que el texto sea legible, atractivo y expresivo. En el diseño gráfico, gran parte de la comunicación es textual, por lo que una buena elección tipográfica puede definir la personalidad y la eficacia de un proyecto.
+
+Se distingue entre tipografía, que es el diseño de caracteres, y letra o fuente. Una familia tipográfica agrupa variantes de un mismo diseño: redonda, cursiva, negrita, fina, condensada, entre otras. Las partes de una letra tienen nombres propios, como la altura de x, el ascendente, el descendente, el remate o serif, el asta y el ojal.
+
+Las clasificaciones más comunes incluyen las tipografías con serifa (romanas), como Times o Garamond, asociadas con tradición y buena lectura en textos largos; las de palo seco o sans serif, como Helvetica o Futura, que transmiten modernidad y claridad; las de estilo manuscrito o script, que imitan la escritura a mano; las decorativas o display, pensadas para títulos; y las monoespaciadas, usadas en código. Existe también una clasificación histórica que va de las góticas, humanísticas, garaldas y transicionales, hasta las didonas y las mecanas.
+
+Para que un texto sea legible, se ajustan varios parámetros. El tamaño o cuerpo se mide en puntos. El interlineado es el espacio entre líneas; como regla general conviene que sea cercano a 120 % del tamaño. El tracking ajusta el espaciado uniforme entre letras, y el kerning corrige el espacio entre pares específicos. La longitud de línea ideal ronda entre 45 y 75 caracteres. La alineación (izquierda, derecha, centrada o justificada) afecta el ritmo de lectura.
+
+La jerarquía tipográfica organiza el contenido mediante títulos, subtítulos, cuerpo y notas, variando tamaño, peso y estilo. Se recomienda combinar pocas fuentes, normalmente dos o tres, buscando contraste sin conflicto. También es importante conocer las licencias de uso, los formatos (OTF, TTF, fuentes web) y la tipografía responsiva en medios digitales.
+
+Una tipografía bien utilizada pasa casi inadvertida: facilita la lectura y refuerza el mensaje.

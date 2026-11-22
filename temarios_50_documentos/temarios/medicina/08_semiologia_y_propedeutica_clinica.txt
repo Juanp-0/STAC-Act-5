@@ -1,0 +1,13 @@
+MEDICINA - TEMA 8: SEMIOLOGÍA Y PROPEDÉUTICA CLÍNICA
+
+La semiología estudia los signos y síntomas de las enfermedades y la forma de interpretarlos, y la propedéutica enseña los métodos para obtenerlos. Es la materia donde el estudiante empieza a comportarse como médico: aprende a conversar con el paciente, a explorarlo y a razonar un diagnóstico.
+
+Un síntoma es lo que el paciente percibe y refiere (dolor, náusea, fatiga); un signo es lo que el médico observa o mide (fiebre, ictericia, un soplo cardiaco). Un síndrome es un conjunto de signos y síntomas que aparecen juntos.
+
+El primer paso es la historia clínica, que se construye con el interrogatorio. Incluye ficha de identificación, motivo de consulta, padecimiento actual, antecedentes heredofamiliares, personales patológicos y no patológicos, y un interrogatorio por aparatos y sistemas. Al describir un síntoma se exploran su localización, inicio, duración, intensidad, factores que lo agravan o alivian y síntomas asociados. Una buena comunicación, la empatía, la escucha activa y el respeto a la confidencialidad son tan importantes como el conocimiento técnico, y gran parte del diagnóstico se obtiene solo con el interrogatorio.
+
+Después viene la exploración física, que sigue cuatro técnicas: inspección (observar), palpación (tocar), percusión (golpear para evaluar sonidos) y auscultación (escuchar con el estetoscopio). Se inicia con los signos vitales: temperatura, frecuencia cardiaca, frecuencia respiratoria y presión arterial, así como saturación de oxígeno, peso y talla. Luego se explora la cabeza, el cuello, el tórax, el abdomen, las extremidades y el sistema neurológico.
+
+Con la información se plantea el razonamiento clínico: se formulan hipótesis, se elabora un diagnóstico diferencial y se solicitan estudios de laboratorio o de imagen cuando son necesarios, evitando pruebas innecesarias. Los resultados se integran en un diagnóstico y un plan.
+
+Por último, se aprende a registrar de forma clara y ordenada en el expediente clínico, un documento legal. Esta materia es la base de todas las rotaciones clínicas.

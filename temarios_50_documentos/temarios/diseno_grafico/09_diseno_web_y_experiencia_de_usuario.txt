@@ -1,0 +1,11 @@
+DISEÑO GRÁFICO - TEMA 9: DISEÑO WEB Y EXPERIENCIA DE USUARIO (UX/UI)
+
+El diseño web y de interfaces aplica los principios del diseño gráfico a sitios, aplicaciones y productos digitales. Se divide, en términos generales, en dos enfoques complementarios: la experiencia de usuario (UX) y la interfaz de usuario (UI).
+
+La UX se enfoca en cómo se siente y qué tan fácil resulta usar un producto. Comienza con la investigación: entrevistas, encuestas, observación y análisis de competidores, para comprender las necesidades, comportamientos y problemas de los usuarios. A partir de ella se definen personas (arquetipos de usuario), recorridos o mapas de experiencia, y la arquitectura de información, que organiza los contenidos mediante menús, categorías y mapas de sitio. Después se crean wireframes, que son esquemas de baja fidelidad de la estructura de cada pantalla, y prototipos interactivos que se prueban con usuarios reales mediante pruebas de usabilidad. Las heurísticas de usabilidad de Jakob Nielsen, como la visibilidad del estado del sistema, la consistencia, la prevención de errores y la flexibilidad, sirven como guía.
+
+La UI se encarga de la apariencia y la interacción visual: color, tipografía, iconografía, botones, formularios, espaciados y animaciones. Se trabaja con sistemas de diseño, que son bibliotecas de componentes y reglas reutilizables que garantizan coherencia. Se debe adoptar un diseño responsivo que se adapte a distintos tamaños de pantalla, con un enfoque que prioriza primero el móvil (mobile first), y cuidar la jerarquía y la legibilidad.
+
+La accesibilidad es un tema clave: contraste suficiente, textos alternativos, navegación con teclado y compatibilidad con lectores de pantalla, siguiendo las pautas WCAG. También se consideran el rendimiento (imágenes optimizadas, tiempos de carga), los patrones de diseño comunes y las prácticas éticas que evitan los patrones oscuros o engañosos.
+
+Las herramientas más usadas son Figma, Adobe XD y Sketch, y se recomienda conocer nociones de HTML y CSS para colaborar con desarrolladores. El objetivo es crear productos útiles, usables y agradables.

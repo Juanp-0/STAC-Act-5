@@ -1,0 +1,13 @@
+INGENIERÍA INDUSTRIAL - TEMA 4: PLANEACIÓN Y CONTROL DE LA PRODUCCIÓN
+
+La planeación y control de la producción (PCP) coordina los recursos de una empresa para fabricar los productos correctos, en la cantidad adecuada, en el momento oportuno y al menor costo posible. Es el puente entre las ventas y las operaciones.
+
+El proceso comienza con el pronóstico de la demanda, que estima las ventas futuras mediante métodos cualitativos (opinión de expertos) o cuantitativos (promedios móviles, suavización exponencial, regresión). Con ese pronóstico se elabora la planeación agregada, que define de manera general los niveles de producción, inventarios y plantilla para un horizonte de mediano plazo. Después se desagrega en el programa maestro de producción (MPS), que especifica qué producto terminado se fabricará y cuándo.
+
+A partir del MPS se aplica la planeación de requerimientos de materiales (MRP). Este sistema usa la lista de materiales (que detalla los componentes de cada producto), los niveles de inventario y los tiempos de entrega para calcular qué materiales comprar o producir y en qué fechas. Su evolución, el MRP II, integra además capacidad, finanzas y recursos, y los sistemas ERP lo incorporan en plataformas empresariales completas.
+
+La programación de la producción asigna trabajos a máquinas y personas, utilizando reglas de prioridad como primero en llegar-primero en servir, fecha de entrega más próxima o tiempo de procesamiento más corto. El control de la producción da seguimiento al avance y corrige las desviaciones.
+
+La administración de inventarios es otro pilar. Se usan modelos como la cantidad económica de pedido (EOQ), que equilibra el costo de ordenar con el costo de mantener inventario, y se establecen puntos de reorden e inventarios de seguridad. La clasificación ABC prioriza los artículos según su valor.
+
+Los sistemas jalar, como el justo a tiempo y el kanban, producen solo lo que el cliente demanda, en contraste con los sistemas empujar. Una buena planeación reduce costos, evita faltantes y mejora el cumplimiento a los clientes.

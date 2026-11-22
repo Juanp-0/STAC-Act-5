@@ -1,0 +1,13 @@
+DISEÑO GRÁFICO - TEMA 4: COMPOSICIÓN Y MAQUETACIÓN
+
+La composición es la manera de organizar los elementos visuales dentro de un espacio para lograr un mensaje claro, equilibrado y atractivo. Una buena composición guía la mirada del espectador de forma natural a través del diseño, y le permite entender rápidamente qué es importante.
+
+Una de las herramientas fundamentales es la retícula o grid, una estructura invisible de columnas, filas y márgenes que ordena el contenido. Aporta consistencia, facilita la alineación y acelera el trabajo, especialmente en proyectos de varias páginas. Existen retículas de una columna, de varias columnas, modulares y jerárquicas. Los márgenes y las medianiles (espacios entre columnas) también forman parte de su definición.
+
+Otras guías compositivas son la regla de los tercios, que divide el espacio en nueve partes iguales y sugiere ubicar los puntos de interés en las intersecciones; la proporción áurea, una relación matemática presente en la naturaleza y usada desde la antigüedad; y la sección áurea y las diagonales dinámicas. La simetría transmite estabilidad y formalidad, mientras que la asimetría ofrece dinamismo y modernidad. Los patrones de lectura, como el de la letra Z o el de la letra F, explican cómo recorre la vista una página, y se aprovechan para ubicar títulos, imágenes y llamadas a la acción.
+
+El espacio en blanco, también llamado espacio negativo, no es espacio desperdiciado: da respiro, mejora la legibilidad y destaca lo esencial. El diseño saturado, en cambio, confunde. El punto focal establece dónde debe fijarse la atención primero, apoyándose en el contraste, el tamaño, el color y la ubicación.
+
+La maquetación aplica estos principios a documentos concretos, como revistas, folletos, carteles o informes, integrando texto, imágenes y gráficos. Incluye el uso de páginas maestras, estilos de párrafo y de carácter, y el manejo de imágenes con la resolución adecuada (300 ppp para impresión y 72 para pantalla).
+
+Un diseñador revisa siempre la consistencia, la alineación y el equilibrio, y evalúa la composición desde la perspectiva del usuario.

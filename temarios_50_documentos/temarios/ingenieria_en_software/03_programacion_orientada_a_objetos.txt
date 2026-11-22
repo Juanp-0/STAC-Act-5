@@ -1,0 +1,11 @@
+INGENIERÍA EN SOFTWARE - TEMA 3: PROGRAMACIÓN ORIENTADA A OBJETOS
+
+La programación orientada a objetos (POO) es un paradigma que organiza el software como un conjunto de objetos que combinan datos y comportamiento. En lugar de pensar solo en funciones, se modelan entidades del mundo real o conceptual, como un cliente, una factura o un vehículo. Lenguajes como Java, C#, Python y C++ la soportan.
+
+Una clase es el molde o plantilla que define las características (atributos) y las acciones (métodos) de un tipo de objeto. Un objeto es una instancia concreta de esa clase, con valores propios. Por ejemplo, la clase Cuenta puede tener los atributos saldo y titular, y los métodos depositar y retirar; cada cuenta específica es un objeto distinto. Los constructores inicializan los objetos al crearlos.
+
+La POO se apoya en cuatro pilares. La encapsulación oculta los detalles internos y expone solo una interfaz controlada; los atributos suelen ser privados y se accede a ellos mediante métodos, protegiendo la integridad de los datos. La herencia permite que una clase derive de otra y reutilice o extienda su comportamiento, como una clase Gerente que hereda de Empleado. El polimorfismo permite que objetos de distintas clases respondan de forma diferente al mismo mensaje; por ejemplo, el método calcularArea funciona distinto para un círculo y para un rectángulo. La abstracción se centra en lo esencial de un concepto, ignorando los detalles irrelevantes, y se implementa con clases abstractas e interfaces.
+
+También se estudian la composición (un objeto contiene a otros), la sobrecarga y sobrescritura de métodos, el manejo de excepciones y el uso de UML, un lenguaje gráfico para modelar clases y sus relaciones mediante diagramas.
+
+Buenas prácticas como los principios SOLID (por ejemplo, responsabilidad única y abierto/cerrado) y los patrones de diseño (Singleton, Factory, Observer, entre otros) ofrecen soluciones probadas a problemas recurrentes. Un buen diseño orientado a objetos produce código modular, reutilizable y fácil de mantener.

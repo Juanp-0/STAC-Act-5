@@ -1,0 +1,13 @@
+DISEÑO GRÁFICO - TEMA 2: TEORÍA DEL COLOR
+
+El color es una de las herramientas más poderosas del diseño: capta la atención, transmite emociones, organiza la información y refuerza la identidad de una marca. La teoría del color estudia cómo se perciben, combinan y utilizan los colores.
+
+Existen dos grandes modelos de mezcla. El modelo aditivo (RGB: rojo, verde y azul) se basa en la luz; al sumar los tres colores se obtiene el blanco, y es el que usan las pantallas. El modelo sustractivo (CMYK: cian, magenta, amarillo y negro) se basa en pigmentos y tintas; es el que se usa en la impresión. Por eso un mismo color puede verse distinto en pantalla y en papel, y es importante trabajar con el modo de color adecuado al medio final. En el diseño tradicional también se conoce la rueda de color artística, con colores primarios, secundarios y terciarios.
+
+Un color se describe con tres atributos. El matiz o tono es el color en sí (rojo, azul, verde). La saturación indica su pureza o intensidad: un color muy saturado es vivo, y uno poco saturado se ve apagado. El valor o luminosidad indica qué tan claro u oscuro es. Al añadir blanco se obtienen tintes, al añadir negro, sombras, y al añadir gris, tonos.
+
+Las armonías cromáticas son combinaciones que funcionan bien. Las monocromáticas usan un solo matiz con distintos valores; las análogas combinan colores vecinos en la rueda; las complementarias usan colores opuestos, que generan gran contraste; las triádicas emplean tres colores equidistantes, y las tetrádicas, cuatro. Los colores se clasifican además en cálidos (rojo, naranja, amarillo), que avanzan visualmente y transmiten energía, y fríos (azul, verde, violeta), que retroceden y transmiten calma.
+
+La psicología del color asocia, con variaciones culturales, el rojo con pasión o urgencia, el azul con confianza, el verde con naturaleza y el amarillo con optimismo. El diseñador debe considerar el significado en cada contexto.
+
+Finalmente, se estudia el contraste y la accesibilidad: elegir combinaciones legibles, también para personas con daltonismo, y construir paletas coherentes y limitadas, que suelen ser más efectivas que usar muchos colores.

@@ -1,0 +1,11 @@
+NEGOCIOS - TEMA 3: MICROECONOMÍA
+
+La microeconomía estudia cómo toman decisiones los individuos, los hogares y las empresas, y cómo interactúan en los mercados. Parte de un problema central: los recursos son escasos y las necesidades son ilimitadas, por lo que siempre hay que elegir. Cada elección implica un costo de oportunidad, es decir, el valor de la mejor alternativa a la que se renuncia.
+
+El modelo básico es el de oferta y demanda. La demanda muestra la cantidad de un bien que los consumidores están dispuestos a comprar a cada precio; por la ley de la demanda, a mayor precio, menor cantidad demandada. La oferta muestra cuánto están dispuestos a producir los vendedores; a mayor precio, mayor cantidad ofrecida. El punto donde ambas curvas se cruzan es el equilibrio de mercado, que determina el precio y la cantidad de intercambio. Si cambian factores como el ingreso, los gustos, los costos o la tecnología, las curvas se desplazan y el equilibrio se ajusta.
+
+La elasticidad mide qué tan sensible es la cantidad demandada u ofrecida ante cambios en el precio u otras variables. Un bien con demanda inelástica, como la gasolina o los medicamentos, cambia poco su consumo aunque suba el precio; uno con demanda elástica, como un artículo de lujo, reacciona mucho. Esta idea es clave para fijar precios y estimar ingresos.
+
+Otro tema central es la teoría de la empresa: costos fijos, variables, marginales y totales, y la decisión de cuánto producir. También se estudian las estructuras de mercado: competencia perfecta (muchos oferentes, precio dado), monopolio (un solo vendedor con poder de fijar precios), oligopolio (pocas empresas que se influyen entre sí) y competencia monopolística (muchos vendedores con productos diferenciados).
+
+Finalmente, se analizan las fallas de mercado, como las externalidades (contaminación), los bienes públicos y la información asimétrica, que justifican en ciertos casos la intervención del gobierno. Esta materia da herramientas para analizar precios, competencia y comportamiento del consumidor.

@@ -1,0 +1,13 @@
+INGENIERÍA EN SOFTWARE - TEMA 1: FUNDAMENTOS DE PROGRAMACIÓN
+
+Programar es el proceso de escribir instrucciones que una computadora pueda ejecutar para resolver un problema. Antes de escribir código se debe desarrollar el pensamiento computacional: descomponer un problema en partes pequeñas, identificar patrones, abstraer lo esencial y diseñar una secuencia de pasos lógicos llamada algoritmo. Un algoritmo debe ser preciso, finito y producir un resultado. Se puede representar con diagramas de flujo o con pseudocódigo.
+
+Un programa trabaja con datos, y estos se almacenan en variables, que son espacios de memoria con un nombre. Cada variable tiene un tipo de dato, como entero, decimal, cadena de texto o booleano (verdadero o falso). Los operadores permiten realizar cálculos (aritméticos), comparaciones (relacionales) y combinar condiciones (lógicos: Y, O, NO).
+
+Las estructuras de control determinan el orden de ejecución. Las estructuras secuenciales ejecutan instrucciones una tras otra. Las condicionales (if, else, switch) permiten tomar decisiones según se cumpla o no una condición. Las repetitivas o ciclos (for, while, do-while) repiten un bloque mientras se cumpla una condición, lo que evita duplicar código.
+
+Las funciones agrupan un conjunto de instrucciones bajo un nombre, pueden recibir parámetros y devolver un valor. Favorecen la reutilización, la legibilidad y el mantenimiento. También se estudia el alcance de las variables (locales y globales) y los arreglos, que almacenan colecciones de elementos accesibles por un índice. La entrada y salida de datos permite interactuar con el usuario o con archivos.
+
+Es importante aprender a depurar: encontrar y corregir errores, que pueden ser de sintaxis (el código está mal escrito), de ejecución (fallan al correr) o lógicos (el programa funciona pero da un resultado incorrecto). Se recomienda usar nombres descriptivos, comentar con criterio y mantener un estilo consistente.
+
+Estos conceptos son comunes a lenguajes como Python, Java, C o JavaScript. Quien domina la lógica puede aprender nuevos lenguajes con relativa facilidad, por lo que esta materia es la base de toda la carrera.

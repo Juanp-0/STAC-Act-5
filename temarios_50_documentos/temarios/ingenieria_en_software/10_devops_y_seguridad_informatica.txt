@@ -1,0 +1,11 @@
+INGENIERÍA EN SOFTWARE - TEMA 10: DEVOPS, CONTROL DE VERSIONES Y SEGURIDAD INFORMÁTICA
+
+DevOps es una cultura y un conjunto de prácticas que integran el desarrollo (Dev) y las operaciones (Ops) para entregar software de forma más rápida, frecuente y confiable. Rompe la separación tradicional entre quienes escriben el código y quienes lo ponen en producción.
+
+La base técnica es el control de versiones, que registra los cambios en el código a lo largo del tiempo y permite colaborar sin pisarse el trabajo. Git es el sistema más usado; con él se crean ramas para desarrollar funciones por separado, se fusionan cambios (merge), se resuelven conflictos y se revisan contribuciones mediante solicitudes de extracción (pull requests) en plataformas como GitHub o GitLab. Existen flujos de trabajo comunes como GitFlow o el desarrollo basado en troncal.
+
+La integración continua (CI) compila y prueba automáticamente el código cada vez que alguien lo sube, detectando errores tempranamente. La entrega y despliegue continuos (CD) automatizan la publicación en los distintos entornos. Estas canalizaciones (pipelines) se construyen con herramientas como Jenkins, GitHub Actions o GitLab CI. Los contenedores (Docker) empaquetan una aplicación con sus dependencias para que se ejecute igual en cualquier lugar, y Kubernetes los orquesta a gran escala. La infraestructura como código (Terraform, Ansible) permite definir servidores y redes mediante archivos versionados. Además, el monitoreo y los registros (logs) ayudan a detectar fallas en producción.
+
+La seguridad informática protege los sistemas y los datos. Sus principios son la confidencialidad, la integridad y la disponibilidad. Entre las amenazas más comunes están la inyección SQL, el cross-site scripting (XSS), el phishing, el malware y las contraseñas débiles. El proyecto OWASP publica una lista de los riesgos más frecuentes en aplicaciones web. Las buenas prácticas incluyen validar las entradas, cifrar los datos, usar autenticación multifactor, aplicar el principio de mínimo privilegio, mantener actualizadas las dependencias y no guardar secretos en el código.
+
+Incorporar la seguridad desde el inicio del ciclo de desarrollo, enfoque conocido como DevSecOps, es mucho más eficaz que intentar añadirla al final.

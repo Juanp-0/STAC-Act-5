@@ -1,0 +1,13 @@
+DISEÑO GRÁFICO - TEMA 8: ILUSTRACIÓN Y DISEÑO DIGITAL
+
+La ilustración es el arte de representar ideas, historias o conceptos mediante imágenes creadas a mano o con medios digitales. En el diseño gráfico se usa para explicar, decorar, narrar y darle personalidad a marcas, publicaciones, empaques y productos digitales. Dominarla amplía mucho las posibilidades expresivas de un diseñador.
+
+La base sigue siendo el dibujo tradicional: observación, proporción, perspectiva, luces y sombras, anatomía, volumen y composición. Antes de pasar a la computadora se practica con bocetos en papel, estudios de color y exploración de estilos, que pueden ser realistas, esquemáticos, geométricos, caricaturescos, minimalistas o de estética retro.
+
+En el medio digital hay dos grandes tipos de imágenes. Los gráficos vectoriales se construyen con puntos y curvas matemáticas (trazados y curvas de Bézier); se pueden ampliar sin perder calidad y son ideales para logotipos, iconos e ilustraciones planas. Su herramienta principal es Adobe Illustrator, aunque también existen Inkscape y Affinity Designer. Los gráficos de mapa de bits o raster están formados por píxeles, y su calidad depende de la resolución; se usan en fotografía y pintura digital con programas como Photoshop, Procreate o Krita. Conviene conocer sus formatos: SVG, AI y EPS para vectores; JPG, PNG, TIFF y PSD para imágenes de mapa de bits.
+
+Se trabajan técnicas como el uso de capas, máscaras, modos de fusión, pinceles, degradados, ajustes de color y retoque fotográfico. También se estudian la fotomanipulación, el collage digital, el lettering (dibujo de letras) y la creación de patrones. La tableta gráfica permite trazos más naturales y sensibles a la presión.
+
+Otros temas son la ilustración editorial, de personajes, infantil, científica y publicitaria; los principios básicos de la animación y el motion graphics, con programas como After Effects; y la fotografía como apoyo al diseño, considerando encuadre, iluminación y derechos de uso.
+
+Es fundamental respetar los derechos de autor, citar las fuentes y desarrollar un estilo propio y un portafolio sólido.

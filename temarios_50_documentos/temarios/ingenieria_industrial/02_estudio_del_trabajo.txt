@@ -1,0 +1,11 @@
+INGENIERÍA INDUSTRIAL - TEMA 2: ESTUDIO DEL TRABAJO
+
+El estudio del trabajo es el conjunto de técnicas que examinan sistemáticamente la forma de realizar una actividad con el fin de mejorarla y de establecer tiempos estándar. Se divide en dos grandes ramas: el estudio de métodos y la medición del trabajo.
+
+El estudio de métodos busca encontrar la manera más sencilla, segura y eficiente de ejecutar una tarea. Su procedimiento general consta de seleccionar el trabajo a estudiar, registrar el método actual, examinarlo críticamente, desarrollar un método mejorado, implantarlo y mantenerlo. Para registrar se emplean herramientas gráficas como el diagrama de operaciones del proceso, el diagrama de flujo, el diagrama de recorrido, el diagrama hombre-máquina y el diagrama bimanual. Estos diagramas utilizan símbolos para operación, transporte, inspección, demora y almacenamiento. El análisis crítico se apoya en preguntas como qué, quién, dónde, cuándo y cómo, y en los principios de eliminar, combinar, reordenar y simplificar.
+
+La medición del trabajo determina el tiempo que requiere un trabajador calificado para realizar una tarea con un método definido y un ritmo normal. La técnica más conocida es el estudio de tiempos con cronómetro: se divide la tarea en elementos, se toman múltiples observaciones, se calcula el tiempo promedio y se aplica una valoración del ritmo del operario. Al tiempo normal se le agregan suplementos por fatiga, necesidades personales y demoras inevitables, y así se obtiene el tiempo estándar.
+
+Otras técnicas son el muestreo del trabajo, que estima la proporción del tiempo dedicado a cada actividad mediante observaciones aleatorias, y los sistemas de tiempos predeterminados, como MTM, que asignan tiempos a movimientos básicos.
+
+Los tiempos estándar son fundamentales para planear la producción, calcular costos, balancear líneas de ensamble, determinar la plantilla necesaria y establecer incentivos. Es importante aplicar estas técnicas con respeto hacia los trabajadores, involucrándolos en las mejoras para que sean aceptadas y sostenibles.

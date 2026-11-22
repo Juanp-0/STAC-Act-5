@@ -1,0 +1,11 @@
+INGENIERÍA EN SOFTWARE - TEMA 2: ESTRUCTURAS DE DATOS Y ALGORITMOS
+
+Una estructura de datos es una forma de organizar y almacenar información para poder acceder a ella y modificarla de manera eficiente. Elegir la estructura adecuada puede marcar la diferencia entre un programa rápido y uno inutilizable cuando crece la cantidad de datos.
+
+Entre las estructuras lineales están los arreglos, que guardan elementos contiguos y permiten acceso inmediato por índice, pero son costosos de redimensionar; las listas enlazadas, formadas por nodos que apuntan al siguiente y facilitan insertar o eliminar; las pilas, que siguen la regla LIFO (el último en entrar es el primero en salir), útiles para deshacer acciones o evaluar expresiones; y las colas, con la regla FIFO (primero en entrar, primero en salir), usadas en la gestión de procesos o impresión.
+
+Las estructuras no lineales incluyen los árboles, que organizan datos jerárquicamente. Los árboles binarios de búsqueda permiten localizar elementos de forma rápida, y variantes balanceadas como los AVL mantienen ese rendimiento. Los montículos (heaps) sirven para colas de prioridad. Los grafos representan relaciones entre elementos mediante nodos y aristas, y modelan redes sociales, mapas o rutas. Las tablas hash asocian claves con valores y ofrecen búsquedas casi instantáneas en promedio.
+
+Los algoritmos son los procedimientos que operan sobre esos datos. Los de ordenamiento incluyen burbuja, inserción y selección, simples pero lentos, y otros más eficientes como mergesort y quicksort. Para la búsqueda destacan la lineal y la binaria, que requiere datos ordenados. En grafos se estudian el recorrido en anchura y profundidad, y algoritmos de ruta más corta como Dijkstra. También se ven técnicas de diseño: recursión, divide y vencerás, algoritmos voraces y programación dinámica.
+
+Para comparar algoritmos se usa el análisis de complejidad con la notación Big O, que describe cómo crece el tiempo o la memoria al aumentar el tamaño de la entrada: O(1), O(log n), O(n), O(n log n) u O(n²). Comprender estos conceptos es esencial para escribir software eficiente y escalable.

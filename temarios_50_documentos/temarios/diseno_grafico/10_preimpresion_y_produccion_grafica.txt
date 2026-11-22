@@ -1,0 +1,13 @@
+DISEÑO GRÁFICO - TEMA 10: PREIMPRESIÓN Y PRODUCCIÓN GRÁFICA
+
+Un diseño no termina cuando se ve bien en pantalla: debe poder reproducirse con calidad en el medio final. La preimpresión es el conjunto de procesos que preparan los archivos para la impresión, y la producción gráfica abarca todas las etapas para fabricar un impreso. Conocerlas evita errores costosos y permite dialogar con proveedores.
+
+Los sistemas de impresión más importantes son el offset, que transfiere la tinta desde una plancha a un rodillo de caucho y luego al papel; es ideal para tirajes grandes y ofrece alta calidad. La impresión digital, de tóner o inyección de tinta, es conveniente para tirajes cortos y personalizados. La serigrafía usa una malla para imprimir sobre materiales muy diversos, como textiles, plásticos o vidrio. La flexografía es común en empaques y etiquetas, y el huecograbado, en grandes volúmenes. La impresión 3D y la de gran formato amplían las posibilidades.
+
+La reproducción del color se logra con la cuatricromía (CMYK), mediante tramas de puntos de diferentes tamaños. Se pueden agregar tintas directas o planas, como los colores Pantone, para obtener tonos específicos, metálicos o fluorescentes. La gestión del color emplea perfiles ICC para lograr que lo que se ve en el monitor se parezca al resultado impreso, y se realizan pruebas de color (pruebas de contrato) antes del tiraje.
+
+Para preparar un archivo se revisan varios puntos: modo de color CMYK, resolución de 300 ppp, sangrado de 3 mm o más para evitar bordes blancos tras el corte, marcas de corte y registro, márgenes de seguridad, tipografías incrustadas o convertidas a curvas y límites de tinta. El formato más usado para entregar es el PDF/X, un estándar para intercambio de archivos de imprenta. Se verifica el sobreimpresión, el negro enriquecido y el tamaño mínimo de línea.
+
+Los acabados enriquecen el producto: barniz UV, laminado mate o brillante, hot stamping, relieve seco, suaje (corte con forma), doblez, grapado y encuadernado. La elección del papel (gramaje, textura, acabado) influye en la percepción. También se considera el costo, el tiempo de entrega y la sostenibilidad, con papeles reciclados y tintas ecológicas.
+
+Un diseñador con buenos conocimientos de producción logra resultados fieles a su propuesta original.

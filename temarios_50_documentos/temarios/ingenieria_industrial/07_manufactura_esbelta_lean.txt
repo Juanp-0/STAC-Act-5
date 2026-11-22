@@ -1,0 +1,11 @@
+INGENIERÍA INDUSTRIAL - TEMA 7: MANUFACTURA ESBELTA (LEAN)
+
+La manufactura esbelta, o Lean Manufacturing, es una filosofía de gestión basada en el Sistema de Producción de Toyota. Su propósito es entregar el máximo valor al cliente con el mínimo de recursos, eliminando todo aquello que no agrega valor. Se aplica hoy no solo en fábricas, sino también en hospitales, oficinas y servicios.
+
+El punto de partida es identificar el valor desde la perspectiva del cliente: aquello por lo que estaría dispuesto a pagar. Todo lo demás es desperdicio, llamado muda en japonés. Se reconocen siete desperdicios clásicos: sobreproducción, esperas, transporte innecesario, sobreprocesamiento, inventario excesivo, movimientos innecesarios y defectos. Muchos autores agregan un octavo: el talento humano desaprovechado.
+
+Los cinco principios del pensamiento Lean son: definir el valor, mapear el flujo de valor, crear flujo continuo, establecer un sistema jalar y buscar la perfección mediante la mejora continua. La herramienta de diagnóstico más importante es el mapeo de la cadena de valor (VSM), que representa gráficamente los pasos, tiempos e inventarios de un proceso para detectar dónde se pierde tiempo.
+
+Entre las herramientas más conocidas están las 5S (clasificar, ordenar, limpiar, estandarizar y sostener), que organizan el lugar de trabajo; el kanban, un sistema de señales visuales que regula la producción según la demanda; el justo a tiempo (JIT); el SMED, que reduce los tiempos de cambio de herramientas; el TPM o mantenimiento productivo total; el poka-yoke, dispositivos que previenen errores; el trabajo estandarizado; y el takt time, el ritmo de producción necesario para satisfacer la demanda.
+
+La mejora continua o kaizen implica pequeños cambios constantes realizados con la participación de todos los empleados. Para que Lean funcione, se requiere un cambio cultural: liderazgo comprometido, respeto por las personas y disposición a cuestionar lo establecido. Cuando se aplica bien, reduce costos, acorta los tiempos de entrega y mejora la calidad.

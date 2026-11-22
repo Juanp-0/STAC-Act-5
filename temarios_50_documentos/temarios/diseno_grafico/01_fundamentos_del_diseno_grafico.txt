@@ -1,0 +1,11 @@
+DISEÑO GRÁFICO - TEMA 1: FUNDAMENTOS DEL DISEÑO GRÁFICO
+
+El diseño gráfico es la disciplina que comunica ideas y mensajes de forma visual para informar, persuadir o identificar. A diferencia del arte, que expresa la visión personal del autor, el diseño resuelve un problema de comunicación para un público determinado y con un objetivo claro. Por eso todo proyecto comienza con un brief: un documento que define el cliente, el público, el mensaje, los objetivos, las restricciones y los medios de aplicación.
+
+Los elementos básicos del lenguaje visual son el punto, la línea, la forma, el color, la textura, el espacio y la tipografía. La línea guía la mirada y define contornos; las formas pueden ser geométricas, orgánicas o abstractas; la textura aporta sensación táctil, y el espacio, tanto el ocupado como el vacío (llamado espacio negativo), es tan importante como el contenido.
+
+Estos elementos se organizan con principios de diseño. El equilibrio reparte el peso visual de forma simétrica o asimétrica. El contraste destaca diferencias de tamaño, color o forma para generar interés y jerarquía. La jerarquía visual guía al espectador sobre qué leer primero, segundo y tercero. La repetición crea unidad y ritmo. La proximidad agrupa elementos relacionados. La alineación da orden y coherencia. El énfasis y la unidad completan estas ideas. Las leyes de la Gestalt explican cómo percibe el cerebro: tendemos a agrupar por cercanía, semejanza y continuidad, a cerrar formas incompletas y a distinguir figura y fondo.
+
+El proceso de diseño suele incluir investigación, bocetos, desarrollo de propuestas, selección, refinamiento y entrega. Comprende técnicas como la lluvia de ideas, los mapas mentales y los bocetos rápidos, que se realizan antes de abrir cualquier software.
+
+Se distingue entre las áreas del diseño: identidad corporativa, editorial, publicitario, envases, señalización, web y multimedia. Un diseñador debe además dominar herramientas como Adobe Illustrator, Photoshop e InDesign, o alternativas como Figma, Affinity o Canva, pero la herramienta es solo un medio. Lo esencial es el pensamiento creativo, la observación y la capacidad de explicar las decisiones.

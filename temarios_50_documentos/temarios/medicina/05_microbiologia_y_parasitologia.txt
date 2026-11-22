@@ -1,0 +1,11 @@
+MEDICINA - TEMA 5: MICROBIOLOGÍA Y PARASITOLOGÍA
+
+La microbiología médica estudia los microorganismos que causan enfermedad en el ser humano y la forma en que el cuerpo los enfrenta. Incluye bacterias, virus, hongos y parásitos. No todos son perjudiciales: la microbiota normal de la piel, el intestino y otras zonas cumple funciones protectoras y digestivas.
+
+Las bacterias son organismos unicelulares procariotas. Se clasifican por su forma (cocos, bacilos, espirilos), por su tinción de Gram (positivas o negativas, según su pared celular), por su necesidad de oxígeno y por sus características metabólicas. Ejemplos clínicos son Staphylococcus aureus, Streptococcus pneumoniae, Escherichia coli, Mycobacterium tuberculosis y Salmonella. Los virus son partículas acelulares formadas por ácido nucleico y una cubierta proteica que necesitan una célula huésped para replicarse; entre ellos están el virus de la influenza, el VIH, los virus de la hepatitis y el SARS-CoV-2. Los hongos pueden causar infecciones superficiales, como la tiña, o invasivas en pacientes inmunodeprimidos, como la candidiasis. La parasitología estudia protozoarios (Plasmodium, causante del paludismo; Entamoeba histolytica) y helmintos (lombrices, tenias).
+
+Para que ocurra una infección intervienen la cadena de transmisión: agente, reservorio, puerta de salida, mecanismo de transmisión, puerta de entrada y huésped susceptible. La virulencia depende de factores como toxinas, cápsulas y capacidad de adherencia. El sistema inmune responde mediante la inmunidad innata y adaptativa, y las vacunas la preparan antes del contacto con el agente.
+
+El diagnóstico se apoya en tinciones, cultivos, pruebas bioquímicas, serología y técnicas moleculares como la PCR. El antibiograma determina la sensibilidad de una bacteria a los antibióticos.
+
+Un tema crucial es la resistencia antimicrobiana, que surge por el uso inadecuado de antibióticos y se considera una amenaza de salud global. Se combate con un uso racional de los fármacos, medidas de higiene, control de infecciones en hospitales y programas de vacunación. Esta materia es esencial para la medicina interna, la pediatría, la cirugía y la salud pública.

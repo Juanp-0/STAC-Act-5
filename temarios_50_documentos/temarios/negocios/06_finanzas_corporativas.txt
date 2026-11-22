@@ -1,0 +1,13 @@
+NEGOCIOS - TEMA 6: FINANZAS CORPORATIVAS
+
+Las finanzas corporativas estudian cómo las empresas obtienen, administran e invierten el dinero para maximizar su valor. Responden a tres grandes preguntas: en qué activos invertir (decisiones de inversión), cómo financiarlos (decisiones de financiamiento) y cómo manejar el efectivo del día a día (administración del capital de trabajo).
+
+El concepto fundamental es el valor del dinero en el tiempo: un peso hoy vale más que un peso en el futuro, porque puede invertirse y generar rendimientos, y porque la inflación erosiona su valor. De aquí surgen el valor presente y el valor futuro, que permiten comparar flujos de efectivo de distintos momentos mediante una tasa de descuento.
+
+Para evaluar proyectos se emplean varias técnicas. El Valor Presente Neto (VPN) suma los flujos futuros descontados y resta la inversión inicial; si es positivo, el proyecto crea valor. La Tasa Interna de Retorno (TIR) es la tasa que hace el VPN igual a cero y se compara con el rendimiento exigido. El periodo de recuperación indica cuánto tarda en recuperarse la inversión, aunque ignora lo que ocurre después.
+
+En financiamiento, la empresa puede usar deuda (préstamos, bonos) o capital propio (aportaciones de socios, utilidades retenidas, emisión de acciones). Cada fuente tiene un costo, y el costo de capital promedio ponderado (WACC) resume el costo global. Un uso adecuado de la deuda genera apalancamiento financiero, que puede aumentar los rendimientos pero también el riesgo.
+
+Otro eje es la relación entre riesgo y rendimiento: a mayor riesgo, mayor rendimiento esperado. La diversificación ayuda a reducir el riesgo de un portafolio. También se analizan las razones financieras (liquidez, rentabilidad, endeudamiento y eficiencia) para diagnosticar la situación de la empresa.
+
+Estos conocimientos permiten tomar decisiones sobre presupuestos, inversiones, adquisiciones y política de dividendos, y son la base de áreas como banca, tesorería y consultoría financiera.

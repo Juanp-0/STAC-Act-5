@@ -1,0 +1,13 @@
+INGENIERÍA INDUSTRIAL - TEMA 8: ERGONOMÍA Y SEGURIDAD INDUSTRIAL
+
+La ergonomía estudia la interacción entre las personas y los elementos de su entorno de trabajo, con el objetivo de adaptar las tareas, herramientas y espacios a las capacidades y límites de quien los usa. Su meta es mejorar la salud, la comodidad, la seguridad y también la productividad.
+
+Se divide en tres áreas. La ergonomía física analiza posturas, manejo manual de cargas, movimientos repetitivos y diseño de estaciones de trabajo; se apoya en la antropometría, que mide las dimensiones del cuerpo humano para diseñar mobiliario y equipo. La ergonomía cognitiva estudia la carga mental, la atención y el diseño de pantallas y controles. La ergonomía organizacional considera turnos, ritmos y trabajo en equipo.
+
+Existen métodos para evaluar riesgos ergonómicos, como RULA y REBA, que califican las posturas del cuerpo; la ecuación de levantamiento de NIOSH, que determina el peso máximo recomendado para cargar; y el método OWAS. Los trastornos musculoesqueléticos, como lumbalgias o el síndrome del túnel carpiano, son de las enfermedades laborales más comunes y se previenen con un buen diseño.
+
+La seguridad industrial se ocupa de prevenir accidentes y enfermedades de trabajo. Parte de identificar peligros (fuentes de daño potencial) y evaluar riesgos (probabilidad y severidad). Para controlarlos se aplica la jerarquía de controles: eliminar el peligro, sustituirlo, usar controles de ingeniería, aplicar controles administrativos y, como último recurso, dotar de equipo de protección personal.
+
+Otros temas son la señalización, la prevención y combate de incendios, el manejo de sustancias químicas, el orden y limpieza, el análisis de causas de accidentes y la investigación de incidentes. En México, esta materia se regula con las Normas Oficiales Mexicanas de la Secretaría del Trabajo, y a nivel internacional existen estándares como ISO 45001.
+
+Una cultura de seguridad exitosa involucra el compromiso de la dirección, la capacitación y la participación de los trabajadores.

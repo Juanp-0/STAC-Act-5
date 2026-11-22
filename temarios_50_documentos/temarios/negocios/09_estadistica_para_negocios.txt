@@ -1,0 +1,13 @@
+NEGOCIOS - TEMA 9: ESTADÍSTICA PARA NEGOCIOS
+
+La estadística es la ciencia que recopila, organiza, analiza e interpreta datos para apoyar la toma de decisiones. En los negocios permite entender el comportamiento de las ventas, medir la satisfacción de clientes, controlar la calidad y reducir la incertidumbre.
+
+Se divide en dos grandes ramas. La estadística descriptiva resume y presenta la información mediante tablas, gráficas y medidas numéricas. Las medidas de tendencia central (media, mediana y moda) indican el valor típico de un conjunto de datos; las de dispersión (rango, varianza y desviación estándar) muestran qué tan variados son. Por ejemplo, dos tiendas pueden tener el mismo promedio de ventas, pero una ser mucho más estable que la otra.
+
+La estadística inferencial usa una muestra para sacar conclusiones sobre una población completa. Para ello se apoya en la teoría de la probabilidad, que cuantifica qué tan probable es un evento, y en distribuciones como la binomial, la de Poisson y, sobre todo, la normal, cuya conocida forma de campana describe muchos fenómenos. Dos herramientas centrales son los intervalos de confianza, que dan un rango plausible para un parámetro, y las pruebas de hipótesis, que permiten decidir con base en datos si una afirmación (por ejemplo, que una campaña aumentó las ventas) es respaldada o no, considerando un nivel de significancia.
+
+La regresión y la correlación analizan la relación entre variables, como el gasto publicitario y las ventas, y permiten hacer pronósticos. Las series de tiempo estudian datos a lo largo de los periodos para detectar tendencias y estacionalidad.
+
+También es importante el muestreo: elegir correctamente la muestra evita sesgos que arruinan las conclusiones. Hoy estos conocimientos se aplican con software como Excel, R o Python, y sirven de puente hacia la analítica de datos y la inteligencia de negocios.
+
+Un profesional con buen criterio estadístico sabe preguntar qué datos necesita, interpretarlos con cuidado y comunicar los hallazgos con claridad.

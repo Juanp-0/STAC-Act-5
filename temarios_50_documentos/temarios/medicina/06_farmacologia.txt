@@ -1,0 +1,11 @@
+MEDICINA - TEMA 6: FARMACOLOGÍA
+
+La farmacología estudia los fármacos, es decir, las sustancias que modifican las funciones del organismo, y su uso para prevenir, diagnosticar y tratar enfermedades. Su objetivo clínico es elegir el medicamento, la dosis y la vía correctos para cada paciente, maximizando el beneficio y reduciendo los riesgos.
+
+Se divide en dos grandes áreas. La farmacocinética describe lo que el cuerpo hace con el fármaco y se resume en cuatro procesos: absorción (paso a la circulación según la vía de administración: oral, intravenosa, intramuscular, subcutánea, inhalada o tópica), distribución (llegada a los tejidos, influida por la unión a proteínas), metabolismo (transformación, principalmente en el hígado, por enzimas como las del citocromo P450) y excreción (eliminación, sobre todo por el riñón). Conceptos como la biodisponibilidad, la vida media y la depuración ayudan a calcular cuánto y con qué frecuencia dar un medicamento.
+
+La farmacodinamia estudia lo que el fármaco hace en el cuerpo: su mecanismo de acción. Muchos actúan sobre receptores, como agonistas (activan) o antagonistas (bloquean); otros inhiben enzimas, canales iónicos o transportadores. Se analizan la relación dosis-respuesta, la potencia, la eficacia y el índice terapéutico, que compara la dosis eficaz con la tóxica. Fármacos con un margen estrecho, como la digoxina o el litio, requieren monitoreo cuidadoso.
+
+Las reacciones adversas pueden ser predecibles, relacionadas con la dosis, o idiosincrásicas, como las alergias. Las interacciones medicamentosas ocurren cuando un fármaco altera el efecto de otro, y los factores como la edad, el embarazo, la función renal o hepática y la genética modifican la respuesta.
+
+Los grandes grupos que se estudian son: fármacos del sistema nervioso autónomo, cardiovasculares, analgésicos y antiinflamatorios, antibióticos, antivirales, antidiabéticos, hormonas, psicofármacos y anestésicos. Se enfatiza la prescripción racional, la receta clara y la farmacovigilancia. Esta materia exige el juicio de no medicar sin una indicación bien fundamentada.

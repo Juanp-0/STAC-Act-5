@@ -1,0 +1,11 @@
+INGENIERÍA INDUSTRIAL - TEMA 9: DISTRIBUCIÓN DE PLANTA Y DISEÑO DE INSTALACIONES
+
+La distribución de planta consiste en ordenar físicamente los departamentos, máquinas, equipos, áreas de almacenamiento y espacios de trabajo dentro de una instalación, de modo que el flujo de materiales y de personas sea lo más eficiente, seguro y flexible posible. Una buena distribución reduce costos de manejo de materiales, tiempos de producción e inventarios en proceso.
+
+Antes de distribuir se debe definir la localización de la planta. Para elegir el sitio se consideran factores como la cercanía a mercados y proveedores, la disponibilidad de mano de obra, el costo del terreno, los servicios, la infraestructura de transporte, la regulación y el entorno. Se pueden comparar alternativas con métodos como el de ponderación de factores o el centro de gravedad.
+
+Existen cuatro tipos básicos de distribución. La distribución por producto o en línea organiza los equipos según la secuencia de operaciones, y es adecuada para grandes volúmenes de productos estandarizados. La distribución por proceso agrupa equipos similares por función, y sirve para producción variada en bajo volumen. La distribución de posición fija mantiene el producto en un lugar mientras llegan personas y equipos, como en la construcción de barcos o edificios. La distribución celular agrupa máquinas diferentes en celdas para fabricar familias de productos similares, combinando flexibilidad y eficiencia.
+
+El método sistemático de distribución (SLP), de Richard Muther, es una guía muy usada: analiza el flujo de materiales, determina las relaciones de cercanía entre áreas con una tabla relacional de actividades, calcula las necesidades de espacio y genera un diagrama de relación de espacios para proponer alternativas.
+
+Otros aspectos son el balanceo de líneas de ensamble, que reparte las tareas entre estaciones para igualar los tiempos; el diseño de almacenes; los pasillos; y el cumplimiento de normas de seguridad. Hoy es habitual utilizar software de simulación y modelado en 3D para evaluar el diseño antes de construirlo.

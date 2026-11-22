@@ -1,0 +1,11 @@
+MEDICINA - TEMA 7: PATOLOGÍA GENERAL
+
+La patología estudia las causas (etiología), los mecanismos de desarrollo (patogenia) y los cambios estructurales y funcionales que produce la enfermedad. Es el puente entre las ciencias básicas y la clínica, pues explica por qué los pacientes presentan ciertos signos y síntomas.
+
+Un primer eje es la lesión y la muerte celular. Las células pueden adaptarse al estrés mediante atrofia (disminución de tamaño), hipertrofia (aumento de tamaño), hiperplasia (aumento de número) o metaplasia (cambio de un tipo celular a otro). Si el estímulo supera la capacidad de adaptación, ocurre la lesión celular, que puede ser reversible o irreversible. La muerte celular se presenta como necrosis, un proceso patológico con inflamación, o como apoptosis, una muerte programada y regulada. Causas frecuentes son la hipoxia, los agentes físicos y químicos, los microorganismos y las alteraciones inmunitarias.
+
+La inflamación es la respuesta de defensa ante la lesión o infección. La aguda se caracteriza por los signos clásicos: calor, rubor, tumor, dolor y pérdida de función. Implica cambios vasculares, migración de leucocitos y liberación de mediadores químicos. Si persiste, evoluciona a inflamación crónica, con macrófagos, linfocitos y formación de tejido cicatricial. La reparación tisular puede lograr regeneración o cicatrización con fibrosis.
+
+Otros temas son los trastornos hemodinámicos: edema, hemorragia, trombosis, embolia, infarto y choque. La neoplasia es el crecimiento anormal y descontrolado de células; los tumores benignos permanecen localizados, y los malignos, o cáncer, invaden tejidos vecinos y pueden generar metástasis. Se estudian los oncogenes, los genes supresores de tumores y los factores de riesgo, como el tabaco, ciertos virus y la radiación. También se abordan las enfermedades genéticas, los trastornos inmunológicos (autoinmunidad e hipersensibilidad) y las enfermedades nutricionales.
+
+El diagnóstico patológico se basa en la biopsia, la citología y las autopsias, interpretadas al microscopio. Entender la patología facilita razonar el diagnóstico, el pronóstico y el tratamiento.

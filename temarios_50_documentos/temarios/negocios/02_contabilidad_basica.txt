@@ -1,0 +1,13 @@
+NEGOCIOS - TEMA 2: CONTABILIDAD BÁSICA
+
+La contabilidad es el sistema que registra, clasifica y resume las operaciones económicas de una empresa para generar información útil en la toma de decisiones. Sus usuarios son los dueños, los directivos, los acreedores, los inversionistas y las autoridades fiscales.
+
+El punto de partida es la ecuación contable: Activo = Pasivo + Capital. Los activos son los bienes y derechos que posee la empresa (efectivo, inventarios, equipo, cuentas por cobrar). Los pasivos son las obligaciones con terceros (proveedores, préstamos, impuestos por pagar). El capital es la aportación de los dueños más las utilidades acumuladas. Esta igualdad debe cumplirse siempre, y de ahí nace el principio de la partida doble: cada operación afecta al menos dos cuentas, una con un cargo (debe) y otra con un abono (haber), por montos iguales.
+
+Las operaciones se registran en el libro diario y luego se pasan al libro mayor, donde se agrupan por cuenta. Con los saldos se elabora la balanza de comprobación, que verifica que los cargos y abonos coincidan antes de preparar los estados financieros.
+
+Los estados financieros principales son cuatro. El balance general o estado de situación financiera muestra lo que la empresa tiene y debe en una fecha determinada. El estado de resultados presenta ingresos, costos y gastos durante un periodo, y concluye con la utilidad o pérdida. El estado de flujo de efectivo explica de dónde provino y en qué se usó el dinero. El estado de cambios en el capital contable muestra las variaciones del patrimonio.
+
+Entre los principios contables más importantes están la entidad económica (la empresa es independiente de sus dueños), el negocio en marcha, el devengo (se registra cuando ocurre, no cuando se cobra o paga) y el costo histórico. En México, la información financiera se rige por las Normas de Información Financiera (NIF); a nivel internacional, por las NIIF.
+
+Dominar esta materia permite leer la salud financiera de cualquier organización y es indispensable para finanzas, auditoría y costos.

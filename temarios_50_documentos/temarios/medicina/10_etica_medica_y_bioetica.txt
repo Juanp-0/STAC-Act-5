@@ -1,0 +1,13 @@
+MEDICINA - TEMA 10: ÉTICA MÉDICA Y BIOÉTICA
+
+La ética médica es el conjunto de principios y valores morales que guían la conducta de los profesionales de la salud en su relación con los pacientes, los colegas y la sociedad. La bioética amplía este campo al estudiar los problemas morales que surgen de las ciencias de la vida y los avances tecnológicos.
+
+Su origen se remonta al Juramento Hipocrático y a la máxima de no hacer daño. En el siglo XX, tras los abusos cometidos en experimentos con seres humanos, surgieron documentos como el Código de Núremberg, la Declaración de Helsinki y el Informe Belmont, que establecieron los fundamentos de la investigación ética.
+
+El enfoque más difundido es el principialismo, con cuatro principios. La autonomía respeta la capacidad del paciente para decidir sobre su propio cuerpo y tratamiento. La beneficencia obliga a actuar en favor de su bienestar. La no maleficencia exige evitar causar daño. La justicia demanda distribuir de manera equitativa los recursos y las cargas de la atención. Cuando estos principios entran en conflicto, el profesional debe deliberar con prudencia.
+
+De la autonomía se deriva el consentimiento informado: el paciente debe recibir información comprensible sobre su diagnóstico, las opciones de tratamiento, los beneficios y los riesgos, y decidir libremente. Otros temas son la confidencialidad y el secreto profesional, que solo admite excepciones previstas por la ley; la veracidad al comunicar malas noticias; el manejo de la información en el expediente clínico; y los límites de la relación médico-paciente.
+
+Se discuten dilemas como la atención al final de la vida, los cuidados paliativos, el rechazo de tratamientos, las voluntades anticipadas, la donación y los trasplantes de órganos, la asignación de recursos escasos, el aborto, la reproducción asistida, la edición genética y el uso de inteligencia artificial en medicina. En la investigación, los comités de ética revisan los protocolos para proteger a los participantes.
+
+Además, se aborda la responsabilidad profesional, el conflicto de intereses, el trato digno y la no discriminación. Un buen médico combina competencia técnica con integridad, empatía y respeto por la dignidad humana.

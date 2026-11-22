@@ -1,0 +1,11 @@
+INGENIERÍA EN SOFTWARE - TEMA 8: DESARROLLO WEB
+
+El desarrollo web consiste en crear sitios y aplicaciones que se ejecutan en un navegador y se comunican con servidores a través de Internet. Se divide tradicionalmente en dos partes: el frontend, lo que el usuario ve e interactúa, y el backend, la lógica y los datos que funcionan detrás.
+
+En el frontend, tres tecnologías forman la base. HTML define la estructura y el contenido de la página mediante etiquetas semánticas. CSS controla la presentación: colores, tipografía, espaciado y diseño. Técnicas como Flexbox, Grid y las consultas de medios permiten un diseño responsivo, que se adapta a pantallas de teléfono, tableta y computadora. JavaScript agrega interactividad, manipula el DOM (la representación del documento) y se comunica con el servidor mediante solicitudes asíncronas. Hoy se emplean frameworks y bibliotecas como React, Vue o Angular, que organizan la interfaz en componentes reutilizables, y TypeScript, que añade tipado estático.
+
+El backend procesa solicitudes, aplica reglas de negocio, accede a bases de datos y envía respuestas. Puede construirse con diversos lenguajes y entornos: Node.js, Python (Django, Flask), Java (Spring), C# (.NET), PHP (Laravel) o Ruby. La comunicación entre frontend y backend suele realizarse mediante APIs, en especial las de estilo REST, que usan los métodos HTTP (GET, POST, PUT, DELETE) y devuelven datos en formato JSON. GraphQL es una alternativa que permite pedir exactamente los datos necesarios.
+
+Otros temas importantes son la autenticación y autorización (sesiones, tokens JWT, OAuth), el uso de la arquitectura cliente-servidor, la accesibilidad web para personas con discapacidades, el rendimiento y la optimización, el SEO y el despliegue en servidores o servicios en la nube.
+
+Un desarrollador full stack domina ambas capas. Más allá de las herramientas, que cambian rápidamente, lo valioso es comprender los fundamentos de la web: cómo viaja la información, cómo se estructura una aplicación y cómo ofrecer una buena experiencia al usuario.

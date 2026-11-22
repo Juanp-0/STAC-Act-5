@@ -1,0 +1,11 @@
+MEDICINA - TEMA 9: SALUD PÚBLICA Y EPIDEMIOLOGÍA
+
+La salud pública se ocupa de proteger y mejorar la salud de poblaciones completas, más que de pacientes individuales. La Organización Mundial de la Salud define la salud como un estado de completo bienestar físico, mental y social, y no solo la ausencia de enfermedad. Esta visión integral incluye los determinantes sociales de la salud: ingreso, educación, vivienda, alimentación, trabajo y acceso a servicios.
+
+La epidemiología es la ciencia que estudia la distribución y los determinantes de las enfermedades en las poblaciones, y aplica ese conocimiento para controlarlas. Utiliza medidas como la incidencia (casos nuevos en un periodo), la prevalencia (casos totales existentes), la tasa de mortalidad y la letalidad. También describe fenómenos mediante conceptos como endemia, epidemia y pandemia, y analiza el comportamiento de una enfermedad según persona, lugar y tiempo.
+
+Los estudios epidemiológicos pueden ser descriptivos, como los reportes de casos y los estudios transversales, o analíticos. Entre estos últimos están los de casos y controles, los de cohortes y los ensayos clínicos controlados, considerados el estándar para evaluar tratamientos. Se calculan medidas de asociación como el riesgo relativo y la razón de momios, y se debe prestar atención a los sesgos y a los factores de confusión. La medicina basada en evidencia integra la mejor información científica disponible, la experiencia clínica y los valores del paciente.
+
+En cuanto a la prevención, se distinguen los niveles: primaria (evitar que aparezca la enfermedad, mediante vacunación y promoción de la salud), secundaria (detección temprana, como los tamizajes) y terciaria (limitar complicaciones y rehabilitar). Se estudia la vigilancia epidemiológica, el control de brotes y la notificación obligatoria de ciertas enfermedades.
+
+También se analizan los sistemas de salud, su organización y financiamiento, la atención primaria, la salud ambiental y ocupacional, y el enfrentamiento de problemas como la diabetes, la obesidad, las enfermedades cardiovasculares y las infecciones emergentes. El médico del futuro debe pensar en el paciente y también en la comunidad.

@@ -1,0 +1,11 @@
+NEGOCIOS - TEMA 4: MACROECONOMÍA
+
+La macroeconomía analiza el comportamiento de la economía en su conjunto: el crecimiento, el empleo, los precios, el comercio exterior y la política económica. Mientras la microeconomía observa a cada agente, la macroeconomía estudia los grandes agregados.
+
+El indicador más conocido es el Producto Interno Bruto (PIB), que mide el valor de los bienes y servicios finales producidos en un país durante un periodo. Se puede calcular por el método del gasto: PIB = Consumo + Inversión + Gasto del gobierno + (Exportaciones - Importaciones). Su variación porcentual indica si la economía crece o se contrae; dos trimestres consecutivos de caída suelen considerarse una recesión. Conviene distinguir el PIB nominal del real, que descuenta el efecto de los precios.
+
+La inflación es el aumento generalizado y sostenido de los precios, y reduce el poder adquisitivo. Se mide con índices como el Índice Nacional de Precios al Consumidor. Sus causas pueden ser exceso de demanda, aumento de costos o expectativas. El desempleo mide la proporción de personas que buscan trabajo y no lo encuentran, y existen tipos como el friccional, el estructural y el cíclico.
+
+Para influir en estas variables existen dos grandes herramientas. La política fiscal, a cargo del gobierno, maneja el gasto público y los impuestos. La política monetaria, a cargo del banco central (en México, el Banco de México), controla la oferta de dinero y las tasas de interés. Subir las tasas tiende a frenar la inflación pero también desacelera el crecimiento; bajarlas estimula la inversión y el consumo.
+
+También se estudian el tipo de cambio, la balanza de pagos, la deuda pública y los ciclos económicos (expansión, auge, recesión y recuperación). Entender estos conceptos ayuda a los profesionales de negocios a anticipar cambios en el entorno, evaluar riesgos y tomar decisiones de inversión y de planeación.

@@ -1,0 +1,13 @@
+INGENIERÍA EN SOFTWARE - TEMA 4: BASES DE DATOS
+
+Una base de datos es una colección organizada de información que se almacena de manera estructurada para consultarla, actualizarla y administrarla de forma eficiente. El sistema gestor de bases de datos (DBMS), como MySQL, PostgreSQL, SQL Server u Oracle, es el software que controla su almacenamiento, seguridad, concurrencia y recuperación.
+
+El modelo más utilizado es el relacional, que organiza los datos en tablas compuestas por filas (registros) y columnas (atributos). Cada tabla tiene una clave primaria que identifica de forma única cada registro, y las relaciones entre tablas se establecen mediante claves foráneas. Para diseñar una base de datos se parte del modelo entidad-relación, que identifica las entidades, sus atributos y las relaciones (uno a uno, uno a muchos, muchos a muchos), y luego se transforma al modelo relacional.
+
+La normalización es el proceso de organizar las tablas para eliminar la redundancia y evitar anomalías al insertar, actualizar o eliminar datos. Se aplica mediante las formas normales: la primera exige valores atómicos, la segunda elimina dependencias parciales y la tercera elimina dependencias transitivas.
+
+El lenguaje estándar para interactuar con estas bases es SQL. Incluye el lenguaje de definición de datos (CREATE, ALTER, DROP), el de manipulación (INSERT, UPDATE, DELETE), la consulta (SELECT con filtros WHERE, ordenamiento, agrupación con GROUP BY y funciones de agregación como SUM o COUNT), las uniones entre tablas (JOIN) y el control de permisos. También se aprenden vistas, índices que aceleran las consultas, procedimientos almacenados y disparadores.
+
+Las transacciones agrupan operaciones que deben ejecutarse completas o no ejecutarse, y se rigen por las propiedades ACID: atomicidad, consistencia, aislamiento y durabilidad.
+
+Además, existen las bases de datos NoSQL (documentales como MongoDB, clave-valor como Redis, de grafos y columnares) que ofrecen flexibilidad y escalabilidad para ciertos casos, como grandes volúmenes de datos no estructurados. Elegir la tecnología adecuada depende de las necesidades de cada proyecto.
